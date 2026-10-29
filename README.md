@@ -1,6 +1,7 @@
 # Azure AI Learning
 
 My journey from Azure Administrator to Azure AI Engineer, built in public.
+Status: Phase 2 complete (Git and GitHub)
 
 ## What is in this repo
 - python-practice/: Python exercises from Phase 1 (100 Days of Python)
